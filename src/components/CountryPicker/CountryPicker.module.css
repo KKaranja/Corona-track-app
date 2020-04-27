@@ -1,0 +1,9 @@
+.formControl {
+    width: 35%;
+    margin-bottom: 30px !important;
+    background-color: #ff99cc;
+}
+
+.global {
+    border: none !important;
+}
